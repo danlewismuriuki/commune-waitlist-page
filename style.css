@@ -1,0 +1,80 @@
+ *{
+    padding:0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+ }
+ nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+ }
+ ul{
+    display: flex; 
+    gap: 12px;
+    justify-content: space-around;
+    align-items: center;
+ }
+ a {
+    color: black;
+ }
+ .Join-Waitlist{
+    background-color: #003366;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 4px;
+ }
+ .Join-Waitlist a{
+    color: aliceblue;
+ }
+.Illustration img{
+    height: 300px;
+    width: auto;
+ }
+ /*.para-background{
+    background-color: rgb(46, 22, 46);
+}*/
+ .para-color{
+    background-color: #003366;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+ }
+ .Information{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+ }
+ .para-large{
+    font-weight:600px;
+    color: #003366;
+    font-size: 40px;
+    margin-top: 20px;
+ }
+ .email-padd{
+    margin-top: 20px;
+ }
+
+#email{
+     padding:10px;
+}
+#join-list{
+    padding: 10px;
+    background-color: #003366;
+    color: #ffff;
+}
+.icons{
+    display: flex;
+    gap: 10px;
+}
+.para-weight{
+    font-weight: bold;
+ }
+ .footer-content{
+    display: inline-block;
+    justify-content: space-around;
+   
+ }
