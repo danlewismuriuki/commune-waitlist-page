@@ -75,6 +75,6 @@
  }
  .footer-content{
     display: inline-block;
-    justify-content: space-around;
+    margin-left: 100px;
    
  }
